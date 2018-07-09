@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79254DB820F32B21004DA50B /* icon_search.png in Resources */ = {isa = PBXBuildFile; fileRef = 79254DB720F32B21004DA50B /* icon_search.png */; };
+		79254DBA20F33835004DA50B /* icon_user.png in Resources */ = {isa = PBXBuildFile; fileRef = 79254DB920F33835004DA50B /* icon_user.png */; };
+		79254DBC20F34079004DA50B /* logo_seoul.gif in Resources */ = {isa = PBXBuildFile; fileRef = 79254DBB20F34078004DA50B /* logo_seoul.gif */; };
+		79254DBE20F340E4004DA50B /* logo_yonsei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 79254DBD20F340E4004DA50B /* logo_yonsei.jpg */; };
 		7983E41920EF1D8700C1A30F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7983E41820EF1D8700C1A30F /* AppDelegate.swift */; };
 		7983E41B20EF1D8700C1A30F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7983E41A20EF1D8700C1A30F /* ViewController.swift */; };
 		7983E41E20EF1D8700C1A30F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7983E41C20EF1D8700C1A30F /* Main.storyboard */; };
@@ -22,6 +26,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79254DB720F32B21004DA50B /* icon_search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_search.png; sourceTree = "<group>"; };
+		79254DB920F33835004DA50B /* icon_user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_user.png; sourceTree = "<group>"; };
+		79254DBB20F34078004DA50B /* logo_seoul.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logo_seoul.gif; sourceTree = "<group>"; };
+		79254DBD20F340E4004DA50B /* logo_yonsei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = logo_yonsei.jpg; sourceTree = "<group>"; };
 		7983E41520EF1D8700C1A30F /* guru_project_2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = guru_project_2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7983E41820EF1D8700C1A30F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7983E41A20EF1D8700C1A30F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +76,10 @@
 		7983E41720EF1D8700C1A30F /* guru_project_2 */ = {
 			isa = PBXGroup;
 			children = (
+				79254DBD20F340E4004DA50B /* logo_yonsei.jpg */,
+				79254DBB20F34078004DA50B /* logo_seoul.gif */,
+				79254DB920F33835004DA50B /* icon_user.png */,
+				79254DB720F32B21004DA50B /* icon_search.png */,
 				7983E43620EF3E6100C1A30F /* logo_ewhawomen.gif */,
 				7983E43420EF387A00C1A30F /* logo_seoulwomen.png */,
 				7983E43220EF31A400C1A30F /* icon_girl.png */,
@@ -146,13 +158,17 @@
 				7983E42320EF1D8900C1A30F /* LaunchScreen.storyboard in Resources */,
 				7983E42020EF1D8900C1A30F /* Assets.xcassets in Resources */,
 				7983E42E20EF1DC600C1A30F /* icon_study.png in Resources */,
+				79254DBC20F34079004DA50B /* logo_seoul.gif in Resources */,
 				7983E41E20EF1D8700C1A30F /* Main.storyboard in Resources */,
+				79254DB820F32B21004DA50B /* icon_search.png in Resources */,
 				7983E43120EF1DC600C1A30F /* icon_calendar.png in Resources */,
+				79254DBE20F340E4004DA50B /* logo_yonsei.jpg in Resources */,
 				7983E43720EF3E6200C1A30F /* logo_ewhawomen.gif in Resources */,
 				7983E43020EF1DC600C1A30F /* icon_stopwatch.png in Resources */,
 				7983E43520EF387A00C1A30F /* logo_seoulwomen.png in Resources */,
 				7983E43320EF31A400C1A30F /* icon_girl.png in Resources */,
 				7983E42F20EF1DC600C1A30F /* icon_ranking.png in Resources */,
+				79254DBA20F33835004DA50B /* icon_user.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
