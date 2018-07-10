@@ -7,6 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		79055C6920F4415B0012C5C1 /* img_profile_man_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C6420F4415B0012C5C1 /* img_profile_man_1.png */; };
+		79055C6F20F441B20012C5C1 /* img_profile_woman_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C6B20F441B20012C5C1 /* img_profile_woman_2.png */; };
+		79055C7020F441B20012C5C1 /* img_profile_woman_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C6C20F441B20012C5C1 /* img_profile_woman_3.png */; };
+		79055C7120F441B20012C5C1 /* img_profile_woman_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C6D20F441B20012C5C1 /* img_profile_woman_1.png */; };
+		79055C7220F441B20012C5C1 /* img_profile_woman_4.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C6E20F441B20012C5C1 /* img_profile_woman_4.png */; };
+		79055C8420F44C230012C5C1 /* CHPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7820F44C220012C5C1 /* CHPickerViewController.swift */; };
+		79055C8520F44C230012C5C1 /* CHControls.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7920F44C220012C5C1 /* CHControls.swift */; };
+		79055C8620F44C230012C5C1 /* CHModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7A20F44C220012C5C1 /* CHModalViewController.swift */; };
+		79055C8720F44C230012C5C1 /* NavigationControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7B20F44C220012C5C1 /* NavigationControllers.swift */; };
+		79055C8820F44C230012C5C1 /* CHViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7C20F44C220012C5C1 /* CHViews.swift */; };
+		79055C8920F44C230012C5C1 /* CHContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7D20F44C220012C5C1 /* CHContentViewController.swift */; };
+		79055C8A20F44C230012C5C1 /* CHPagingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7E20F44C220012C5C1 /* CHPagingScrollViewController.swift */; };
+		79055C8B20F44C230012C5C1 /* FIlters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C7F20F44C230012C5C1 /* FIlters.swift */; };
+		79055C8C20F44C230012C5C1 /* SwipeActionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C8020F44C230012C5C1 /* SwipeActionTableViewCell.swift */; };
+		79055C8D20F44C230012C5C1 /* RecordButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C8120F44C230012C5C1 /* RecordButton.swift */; };
+		79055C8E20F44C230012C5C1 /* CHTableViewControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C8220F44C230012C5C1 /* CHTableViewControllers.swift */; };
+		79055C8F20F44C230012C5C1 /* DrawingCanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79055C8320F44C230012C5C1 /* DrawingCanvasView.swift */; };
+		79055C9220F44EDC0012C5C1 /* img_gongsta.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C9120F44EDB0012C5C1 /* img_gongsta.png */; };
+		79055C9620F450280012C5C1 /* logo_Incheon.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C9320F450250012C5C1 /* logo_Incheon.png */; };
+		79055C9720F450280012C5C1 /* logo_seoul.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C9420F450260012C5C1 /* logo_seoul.png */; };
+		79055C9820F450280012C5C1 /* logo_gyeonggi.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C9520F450270012C5C1 /* logo_gyeonggi.png */; };
+		79055C9A20F4612B0012C5C1 /* icon_mail.png in Resources */ = {isa = PBXBuildFile; fileRef = 79055C9920F461290012C5C1 /* icon_mail.png */; };
 		79254DB820F32B21004DA50B /* icon_search.png in Resources */ = {isa = PBXBuildFile; fileRef = 79254DB720F32B21004DA50B /* icon_search.png */; };
 		79254DBA20F33835004DA50B /* icon_user.png in Resources */ = {isa = PBXBuildFile; fileRef = 79254DB920F33835004DA50B /* icon_user.png */; };
 		79254DBC20F34079004DA50B /* logo_seoul.gif in Resources */ = {isa = PBXBuildFile; fileRef = 79254DBB20F34078004DA50B /* logo_seoul.gif */; };
@@ -26,6 +48,28 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		79055C6420F4415B0012C5C1 /* img_profile_man_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_profile_man_1.png; sourceTree = "<group>"; };
+		79055C6B20F441B20012C5C1 /* img_profile_woman_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_profile_woman_2.png; sourceTree = "<group>"; };
+		79055C6C20F441B20012C5C1 /* img_profile_woman_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_profile_woman_3.png; sourceTree = "<group>"; };
+		79055C6D20F441B20012C5C1 /* img_profile_woman_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_profile_woman_1.png; sourceTree = "<group>"; };
+		79055C6E20F441B20012C5C1 /* img_profile_woman_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_profile_woman_4.png; sourceTree = "<group>"; };
+		79055C7820F44C220012C5C1 /* CHPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHPickerViewController.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHPickerViewController.swift"; sourceTree = "<group>"; };
+		79055C7920F44C220012C5C1 /* CHControls.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHControls.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHControls.swift"; sourceTree = "<group>"; };
+		79055C7A20F44C220012C5C1 /* CHModalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHModalViewController.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHModalViewController.swift"; sourceTree = "<group>"; };
+		79055C7B20F44C220012C5C1 /* NavigationControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NavigationControllers.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/NavigationControllers.swift"; sourceTree = "<group>"; };
+		79055C7C20F44C220012C5C1 /* CHViews.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHViews.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHViews.swift"; sourceTree = "<group>"; };
+		79055C7D20F44C220012C5C1 /* CHContentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHContentViewController.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHContentViewController.swift"; sourceTree = "<group>"; };
+		79055C7E20F44C220012C5C1 /* CHPagingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHPagingScrollViewController.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHPagingScrollViewController.swift"; sourceTree = "<group>"; };
+		79055C7F20F44C230012C5C1 /* FIlters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FIlters.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/FIlters.swift"; sourceTree = "<group>"; };
+		79055C8020F44C230012C5C1 /* SwipeActionTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwipeActionTableViewCell.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/SwipeActionTableViewCell.swift"; sourceTree = "<group>"; };
+		79055C8120F44C230012C5C1 /* RecordButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RecordButton.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/RecordButton.swift"; sourceTree = "<group>"; };
+		79055C8220F44C230012C5C1 /* CHTableViewControllers.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CHTableViewControllers.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/CHTableViewControllers.swift"; sourceTree = "<group>"; };
+		79055C8320F44C230012C5C1 /* DrawingCanvasView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DrawingCanvasView.swift; path = "../../../Downloads/PilotPlant-master/PilotPlant/DrawingCanvasView.swift"; sourceTree = "<group>"; };
+		79055C9120F44EDB0012C5C1 /* img_gongsta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = img_gongsta.png; sourceTree = "<group>"; };
+		79055C9320F450250012C5C1 /* logo_Incheon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_Incheon.png; sourceTree = "<group>"; };
+		79055C9420F450260012C5C1 /* logo_seoul.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_seoul.png; sourceTree = "<group>"; };
+		79055C9520F450270012C5C1 /* logo_gyeonggi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_gyeonggi.png; sourceTree = "<group>"; };
+		79055C9920F461290012C5C1 /* icon_mail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_mail.png; sourceTree = "<group>"; };
 		79254DB720F32B21004DA50B /* icon_search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_search.png; sourceTree = "<group>"; };
 		79254DB920F33835004DA50B /* icon_user.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon_user.png; sourceTree = "<group>"; };
 		79254DBB20F34078004DA50B /* logo_seoul.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = logo_seoul.gif; sourceTree = "<group>"; };
@@ -57,9 +101,58 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		79055C7320F44B200012C5C1 /* Paging */ = {
+			isa = PBXGroup;
+			children = (
+				79055C7D20F44C220012C5C1 /* CHContentViewController.swift */,
+				79055C7920F44C220012C5C1 /* CHControls.swift */,
+				79055C7A20F44C220012C5C1 /* CHModalViewController.swift */,
+				79055C7E20F44C220012C5C1 /* CHPagingScrollViewController.swift */,
+				79055C7820F44C220012C5C1 /* CHPickerViewController.swift */,
+				79055C8220F44C230012C5C1 /* CHTableViewControllers.swift */,
+				79055C7C20F44C220012C5C1 /* CHViews.swift */,
+				79055C8320F44C230012C5C1 /* DrawingCanvasView.swift */,
+				79055C7F20F44C230012C5C1 /* FIlters.swift */,
+				79055C7B20F44C220012C5C1 /* NavigationControllers.swift */,
+				79055C8120F44C230012C5C1 /* RecordButton.swift */,
+				79055C8020F44C230012C5C1 /* SwipeActionTableViewCell.swift */,
+			);
+			path = Paging;
+			sourceTree = "<group>";
+		};
+		79055C9020F44D3B0012C5C1 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				79055C9920F461290012C5C1 /* icon_mail.png */,
+				79055C9520F450270012C5C1 /* logo_gyeonggi.png */,
+				79055C9320F450250012C5C1 /* logo_Incheon.png */,
+				79055C9420F450260012C5C1 /* logo_seoul.png */,
+				79055C9120F44EDB0012C5C1 /* img_gongsta.png */,
+				79055C6D20F441B20012C5C1 /* img_profile_woman_1.png */,
+				79055C6B20F441B20012C5C1 /* img_profile_woman_2.png */,
+				79055C6C20F441B20012C5C1 /* img_profile_woman_3.png */,
+				79055C6E20F441B20012C5C1 /* img_profile_woman_4.png */,
+				79055C6420F4415B0012C5C1 /* img_profile_man_1.png */,
+				79254DBD20F340E4004DA50B /* logo_yonsei.jpg */,
+				79254DBB20F34078004DA50B /* logo_seoul.gif */,
+				79254DB920F33835004DA50B /* icon_user.png */,
+				79254DB720F32B21004DA50B /* icon_search.png */,
+				7983E43620EF3E6100C1A30F /* logo_ewhawomen.gif */,
+				7983E43420EF387A00C1A30F /* logo_seoulwomen.png */,
+				7983E43220EF31A400C1A30F /* icon_girl.png */,
+				7983E42D20EF1DC500C1A30F /* icon_calendar.png */,
+				7983E42B20EF1DC500C1A30F /* icon_ranking.png */,
+				7983E42C20EF1DC500C1A30F /* icon_stopwatch.png */,
+				7983E42A20EF1DC500C1A30F /* icon_study.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
 		7983E40C20EF1D8700C1A30F = {
 			isa = PBXGroup;
 			children = (
+				79055C9020F44D3B0012C5C1 /* img */,
+				79055C7320F44B200012C5C1 /* Paging */,
 				7983E41720EF1D8700C1A30F /* guru_project_2 */,
 				7983E41620EF1D8700C1A30F /* Products */,
 			);
@@ -76,17 +169,6 @@
 		7983E41720EF1D8700C1A30F /* guru_project_2 */ = {
 			isa = PBXGroup;
 			children = (
-				79254DBD20F340E4004DA50B /* logo_yonsei.jpg */,
-				79254DBB20F34078004DA50B /* logo_seoul.gif */,
-				79254DB920F33835004DA50B /* icon_user.png */,
-				79254DB720F32B21004DA50B /* icon_search.png */,
-				7983E43620EF3E6100C1A30F /* logo_ewhawomen.gif */,
-				7983E43420EF387A00C1A30F /* logo_seoulwomen.png */,
-				7983E43220EF31A400C1A30F /* icon_girl.png */,
-				7983E42D20EF1DC500C1A30F /* icon_calendar.png */,
-				7983E42B20EF1DC500C1A30F /* icon_ranking.png */,
-				7983E42C20EF1DC500C1A30F /* icon_stopwatch.png */,
-				7983E42A20EF1DC500C1A30F /* icon_study.png */,
 				7983E41820EF1D8700C1A30F /* AppDelegate.swift */,
 				7983E41A20EF1D8700C1A30F /* ViewController.swift */,
 				7983E41C20EF1D8700C1A30F /* Main.storyboard */,
@@ -158,15 +240,25 @@
 				7983E42320EF1D8900C1A30F /* LaunchScreen.storyboard in Resources */,
 				7983E42020EF1D8900C1A30F /* Assets.xcassets in Resources */,
 				7983E42E20EF1DC600C1A30F /* icon_study.png in Resources */,
+				79055C9A20F4612B0012C5C1 /* icon_mail.png in Resources */,
+				79055C6920F4415B0012C5C1 /* img_profile_man_1.png in Resources */,
 				79254DBC20F34079004DA50B /* logo_seoul.gif in Resources */,
+				79055C9220F44EDC0012C5C1 /* img_gongsta.png in Resources */,
 				7983E41E20EF1D8700C1A30F /* Main.storyboard in Resources */,
 				79254DB820F32B21004DA50B /* icon_search.png in Resources */,
 				7983E43120EF1DC600C1A30F /* icon_calendar.png in Resources */,
 				79254DBE20F340E4004DA50B /* logo_yonsei.jpg in Resources */,
+				79055C6F20F441B20012C5C1 /* img_profile_woman_2.png in Resources */,
 				7983E43720EF3E6200C1A30F /* logo_ewhawomen.gif in Resources */,
 				7983E43020EF1DC600C1A30F /* icon_stopwatch.png in Resources */,
+				79055C9820F450280012C5C1 /* logo_gyeonggi.png in Resources */,
 				7983E43520EF387A00C1A30F /* logo_seoulwomen.png in Resources */,
 				7983E43320EF31A400C1A30F /* icon_girl.png in Resources */,
+				79055C9720F450280012C5C1 /* logo_seoul.png in Resources */,
+				79055C7120F441B20012C5C1 /* img_profile_woman_1.png in Resources */,
+				79055C9620F450280012C5C1 /* logo_Incheon.png in Resources */,
+				79055C7020F441B20012C5C1 /* img_profile_woman_3.png in Resources */,
+				79055C7220F441B20012C5C1 /* img_profile_woman_4.png in Resources */,
 				7983E42F20EF1DC600C1A30F /* icon_ranking.png in Resources */,
 				79254DBA20F33835004DA50B /* icon_user.png in Resources */,
 			);
@@ -179,8 +271,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79055C8420F44C230012C5C1 /* CHPickerViewController.swift in Sources */,
+				79055C8A20F44C230012C5C1 /* CHPagingScrollViewController.swift in Sources */,
+				79055C8720F44C230012C5C1 /* NavigationControllers.swift in Sources */,
 				7983E41B20EF1D8700C1A30F /* ViewController.swift in Sources */,
+				79055C8C20F44C230012C5C1 /* SwipeActionTableViewCell.swift in Sources */,
+				79055C8820F44C230012C5C1 /* CHViews.swift in Sources */,
+				79055C8520F44C230012C5C1 /* CHControls.swift in Sources */,
+				79055C8920F44C230012C5C1 /* CHContentViewController.swift in Sources */,
+				79055C8D20F44C230012C5C1 /* RecordButton.swift in Sources */,
+				79055C8B20F44C230012C5C1 /* FIlters.swift in Sources */,
 				7983E41920EF1D8700C1A30F /* AppDelegate.swift in Sources */,
+				79055C8E20F44C230012C5C1 /* CHTableViewControllers.swift in Sources */,
+				79055C8620F44C230012C5C1 /* CHModalViewController.swift in Sources */,
+				79055C8F20F44C230012C5C1 /* DrawingCanvasView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
